@@ -1,7 +1,7 @@
 <h1>Hi, I'm Doug!
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
-- [American Energy Market Regulator using SQL, Tableau](https://github.com/dgibso8/American-Energy-Market-Regulators-SQL)
+- [American Energy Market Regulator](https://github.com/dgibso8/American-Energy-Market-Regulators-SQL-)
 
 - [iFood Marketing Analysis](https://github.com/dgibso8/iFood-Marketing-Analysis)
 
