@@ -1,7 +1,7 @@
 <h1>Hi, I'm Josh!
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
-- [American Energy Market Regulator using SQL, Tableau](
+- [American Energy Market Regulator using SQL, Tableau](https://github.com/dgibso8/American-Energy-Market-Regulators-SQL-)
 
 
 
