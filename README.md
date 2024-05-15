@@ -6,7 +6,7 @@
 
 - [iFood Marketing Analysis](https://github.com/dgibso8/iFood-Marketing-Analysis)
 
-- [SQL Data Cleaning]
+- [SQL Data Cleaning](https://github.com/dgibso8/SQL_data_cleaning)
 
 
 
